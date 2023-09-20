@@ -1,0 +1,7 @@
+dist/
+build/
+.vscode/
+*.o
+*.a
+*.iso
+*.kernel
