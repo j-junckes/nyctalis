@@ -24,7 +24,7 @@ mkdir build && cd build
 
 2. **Prepare the project**:
 ```bash
-CC=<path_to_your_c_compiler> CXX=<path_to_your_cpp_compiler> cmake -G ninja ..
+CC=/path/to/your/gcc CXX=/path/to/your/g++ cmake -G ninja ..
 ```
 
 3. **Build the project**:
